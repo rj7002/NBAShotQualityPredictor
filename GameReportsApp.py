@@ -251,7 +251,7 @@ features = ['minutes',
 'pull_up',
 'turnaround']
 
-model = pickle.load(open('/Users/ryan/Desktop/ShotQuality/xFG_model.pkl', 'rb'))
+model = pickle.load(open('xFG_model.pkl', 'rb'))
 
 descriptor_features = ['alley_oop',
 'catch_and_shoot',
