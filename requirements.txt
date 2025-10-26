@@ -6,3 +6,4 @@ matplotlib
 requests
 lightgbm
 scikit-learn
+nba_api
